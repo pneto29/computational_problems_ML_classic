@@ -77,9 +77,5 @@ python face_preprocessing_column.py
 ---
 
 ## Créditos
-Scripts preparados para as disciplinas do **PPGETI 2025.1 — UFC**.
-
-- **TC1 (regressão)**: baseado no conjunto *Real estate valuation data set* (UCI).
-- **TC2 (faces)**: baseado no conjunto *ORL Faces* (adaptado).
 
 Autor: Polycarpo Neto
